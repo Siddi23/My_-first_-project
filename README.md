@@ -1,2 +1,2 @@
-# My_-first_-project
+# My_first_project
 OST practical 4
